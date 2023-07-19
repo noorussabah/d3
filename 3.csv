@@ -1,0 +1,74 @@
+,Model,Year,Musical Aspect,Architecture,Hierarchical Structure,Standalone,Modular,Interpretability,Interactivity,Creativity,Control,Structure,Style
+1,[39],2002,Melody,LSTM-RNN,,?,,,,,,?,
+2,[40],2008,Melody,LSTM-RNN,,?,,,,,,?,
+3,FolkRNN [125],2015,Melody,LSTM-RNN,,?,,,,,,?,
+4,WordRNN [24],2016,Melody,LSTM-RNN,,?,,,,,,?,
+5,PerformanceRNN [108],2018,Single-track Polyphonic,LSTM-RNN,,?,,,,,,?,
+6,AnticipationRNN [55],2017,Single-track Polyphonic,LSTM-RNN,,?,,,?,,?,?,
+7,StructureNet [99],2018,Melody,LSTM-RNN,,,?,,,?,?,?,?
+8,BachProp [27],2018,Single-track Polyphonic,LSTM-RNN,,?,,,,,,?,
+9,BandNet [149],2018,Multi-track Polyphonic,LSTM-RNN,,?,,,,?,,?,?
+10,[151],2019,Single-track Polyphonic,Normalizing Flows/LSTM-RNN,,?,,,,,,?,
+11,[20],2019,Melody,LSTM-RNN,,?,,,,,,?,
+12,Two-stageRNN [8],2019,Melody,LSTM-RNN,,?,,,,,?,?,
+13,[29],2021,Melody,LSTM-RNN,?,,?,,?,?,?,?,
+14,[87],2021,Melody,LSTM-RNN,,?,,,,,,?,
+15,[47],2021,Single-track Polyphonic,LSTM-RNN,,?,,,,,?,?,?
+16,MeloForm [96],2022,Melody,LSTM-RNN,?,,?,?,?,?,?,?,?
+17,[79],2022,Single-track Polyphonic,LSTM-RNN,,?,,,,,,?,?
+18,Groove2Groove [26],2020,Multi-track Polyphonic,AE,,?,,,,?,?,,?
+19,MusicVAE [119],2018,Single-track Polyphonic,VAE,?,?,,,?,?,?,?,?
+20,Multi-track MuiscVAE [124],2018,Multi-track Polyphonic,VAE,?,?,,,?,?,?,?,?
+21,[1],2018,Melody,VAE/GAN,,?,,,,,?,?,
+22,MIDI-VAE [14],2018,Multi-track Polyphonic,VAE,?,?,,,,?,?,?,?
+23,MidiMe [34],2019,Multi-track Polyphonic,VAE,?,?,,,?,?,?,?,?
+24,MIDI-Sandwich2 [90],2019,Multi-track Polyphonic,VAE/LSTM-RNN,?,?,,,,?,?,?,?
+25,[112],2019,In-painting,VAE,?,?,,,?,?,?,?,?
+26,[136],2019,Single-track Polyphonic,VAE,?,?,,,,,?,?,
+27,PianoTreeVAE [137],2020,Single-track Polyphonic,Tree-structure/VAE,?,?,,?,?,?,?,?,
+28,MusAE [132],2020,Multi-track Polyphonic,Adversarial AE,?,?,,,?,?,?,?,?
+29,TonicNet [114],2020,Multi-track Polyphonic,Transformer/GRU-RNN,,?,,,,,,?,
+30,Music SketchNet [19],2020,Melody,VAE/RNN,?,?,,,,?,?,?,
+31,[100],2021,Melody,VAE/Diffusion,?,?,,,,?,?,?,
+32,Music FaderNets [127],2021,Multi-track Polyphonic,GM-VAE,?,?,,,?,?,?,?,?
+33,C-RNN-GAN [102],2016,Melody,GAN/LSTM-RNN,,?,,,,?,,?,
+34,[53],2017,Multi-track Polyphonic,GAN/RL,,?,,,,?,,?,
+35,FusionGAN [23],2017,Style Transfer,GAN,,?,,,,?,?,?,?
+36,[93],2018,Multi-track Polyphonic,GAN/RNN/CNN,,?,,,,?,?,?,?
+37,CycleGAN [16],2018,Style Transfer,GAN,,?,,,,?,?,?,?
+38,CycleGAN2 [15],2019,Style Transfer,GAN,,?,,,,?,?,?,?
+39,MuseGAN [36],2018,Multi-track Polyphonic,GAN,?,?,,,?,?,?,?,?
+40,DBM-GAN [52],2019,Multi-track Polyphonic,GAN,?,?,,,?,?,?,?,?
+41,[85],2019,Rhythm,GAN,?,?,,,,?,?,?,?
+42,[130],2020,Rhythm,GAN,,?,,,,?,,?,?
+43,CONLON [3],2020,Multi-track Polyphonic,WAE,,?,,,,?,?,?,
+44,TransformerNADE [59],2018,Melody,Transformer,,?,,,,?,,?,?
+45,MusicTransformer [66],2018,Melody,Transformer,?,?,,,,,,?,?
+46,MuseNet [113],2019,Multi-track Polyphonic,Transformer,?,?,,,,?,,?,?
+47,[106],2020,Single-track Polyphonic,Transformer,,?,,,,,,?,?
+48,[146],2020,Multi-track Polyphonic,Adversarial Transformer,?,?,,,,,,?,?
+49,TransformerVAE [74],2020,Multi-track Polyphonic,Transformer/VAE,?,?,,,?,?,?,?,?
+50,MMM [44],2020,Multi-track Polyphonic,Transformer,?,?,,,,?,?,?,?
+51,Jazz Transformer [142],2020,Melody,Transformer,?,?,,,,,,?,?
+52,Guitar Transformer [22],2020,Single-track Polyphonic,Transformer,?,?,,,,,,?,?
+53,Pop Music Transformer [67],2020,Single-track Polyphonic,Transformer,,?,,,,?,?,?,?
+54,[25],2020,Single-track Polyphonic,Transformer,,?,,,,?,?,?,?
+55,MusicFrameworks [29],2021,Melody,Transformer/LSTM-RNN,?,?,,,,?,?,?,?
+56,[33],2021,Multi-track Polyphonic,Transformer,,?,,,,?,?,?,
+57,MuseMorphose [143],2021,Multi-track Polyphonic,Transformer/VAE,?,?,,,,?,?,?,?
+58,[63],2021,Single-track Polyphonic,Transformer,,?,,,,?,,?,
+59,[147],2021,Multi-track Polyphonic,Transformer,?,?,,,,?,?,?,?
+60,SymphonyNet [94],2022,Multi-track Polyphonic,Transformer,,?,,,,?,?,?,
+61,FIGARO [134],2022,Multi-track Polyphonic,Transformer/VQ-VAE,,?,,,,?,?,?,?
+62,MELONS [152],2022,Melody,Transformer,?,?,,,,?,?,?,?
+63,Theme Transformer [123],2022,Single-track Polyphonic,Transformer,,?,,,,?,?,?,?
+64,RL-Tuner [71],2017,Melody,RL,,?,,,?,?,?,?,?
+65,Amadeus [82],2019,Single-track Polyphonic,RL,,?,,,,?,,?,
+66,RL-Duet [75],2020,Melody,RL,,?,,,?,?,?,?,?
+67,RE-RL-Tuner [92],2021,Melody,RL,,?,,,?,?,?,?,?
+68,[121],2016,Melody,Maximum Entropy,,?,,,,,,?,
+69,[104],2016,Melody,Maximum Entropy,,?,,,,?,,?,?
+70,[58],2016,Multi-track Polyphonic,Maximum Entropy,,?,,,,?,,?,?
+71,LakhNES [35],2019,Transfer Learning,Transformer,,?,,,,,,?,
+72,[68],2019,Transfer Learning,VAE/GRU,,?,,,,,,?,
+73,Accomontage [148],2021,Multi-track Polyphonic,Hybrid,?,?,,,,?,?,?,?

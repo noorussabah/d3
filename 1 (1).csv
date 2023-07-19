@@ -1,0 +1,79 @@
+#,System,Architecture,# of Agents,# of roles,Environment,Corpus,Input,Output,Communication,HIM,MuMe Task,Evaluation,Code,Public,Section
+1,VMMAS,knowledge representation,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P,"Comp., Accomp.",?,Not shared,,4.1
+2,Inmamusys,knowledge representation,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Mess.,C,"Comp., Accomp.",?,Not shared,,4.1
+3,Generating Affect,knowledge representation,Multi-agent/Heterogenous,Multi-role,Real-world,Hybrid,None,Audio,Mess.,-,Comp.,,Shared,?,4.1
+4,Coming Together,BDI,Multi-agent/Heterogenous,Single-role,Real-world,-,Symbolic,Hybrid,Hybrid,-,Comp.,,Shared,?,4.2
+5,Indifference Engine,BDI,Multi-agent/Heterogenous,Single-role,Hybrid,-,Audio,Audio,Hybrid,P,"Improv., Comp.",,Not shared,?,4.2
+6,MUSIC-MAS,BDI,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Hybrid,C,"Assisted Comp., ",?,Not shared,,4.2
+7,HSMM,Cognitive,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P+C+L,"Comp., Assisted Comp.„ Cont.",,Not shared,?,4.3
+8,MusiCOG,Cognitive,Multi-agent/Heterogenous,,Real-world,Symbolic,Symbolic,Symbolic,Env.,P+L,"Comp., Assisted Comp.",,Shared,?,4.3
+9,MAMA,Cognitive,Multi-agent/Heterogenous,Single-role,Real-world,Hybrid,Hybrid,Hybrid,Hybrid,-,"Accomp., Improv.",?,Shared,,4.3
+10,Cypher,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Mess.,C,Comp.,,Not shared,,5.1.1
+11,Voyager,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,Hybrid,Symbolic,Env.,P,Improv.,,Shared,?,5.1.1
+12,Bob,Rule-based,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P+L,"Improv.,Melody Gen.",,Not shared,,5.1.1
+13,ARHS,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,Audio,Audio,Env.,P,Improv.,,Not shared,?,5.1.1
+14,LL,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,Audio,Audio,Env.,P,Improv.,?,Not shared,?,5.1.1
+15,Virtualband,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Hybrid,Audio,Audio,Mess.,P+L,"Style Im., Accomp.",,Not shared,?,5.1.1
+16,Odessa,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,Audio,Symbolic,Env.,P,Improv.,?,Not shared,?,5.1.1
+17,Rhythms as,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,Symbolic,Symbolic,Mess.,-,Rhythm Gen.,,Not shared,,5.1.1
+18,VirtuaLatin,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P,Rhythm Gen.,,Not shared,,5.1.1
+19,DrumTrack,Rule-based,Mono-agent,Single-role,Real-world,-,Audio,Audio,Env.,P,"Accomp., Rhythm Gen., Improv.",,Not shared,?,5.1.1
+20,BBCut2,Rule-based,Mono-agent,Single-role,Real-world,Audio,Audio,Audio,Env.,P+L,"Accomp., Rhythm",,Shared,,5.1.1
+21,Kinetic Engine,Rule-based/EC,Multi-agent/Heterogenous,Multi-role,Real-world,-,Symbolic,Symbolic,Mess.,C,Rhythm Gen.,,Not shared,?,5.1.1
+22,Beatbender,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,-,-,Audio,Mess.,-,Rhythm Gen.,?,Not shared,,5.1.1
+23,Andante,Rule-based,Multi-agent/Heterogenous,,Real-world,,-,Audio,Mess.,-,Comp.,,Not shared,,5.1.1
+24,PIWeCS,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Audio,Audio,Audio,Hybrid,C,Comp.,,Not shared,,5.1.1
+25,CT: Freesound,Rule-based,Multi-agent/Heterogenous,Single-role,Real-world,Hybrid,Audio,Audio,Hybrid,-,Comp.,?,Shared,?,5.1.1
+26,Curatorial,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,-,-,"Curation,",,Shared,?,5.1.1
+27,ParamBOT,Rule-based,Multi-agent/Heterogenous,Multi-role,Real-world,Agents,-,Audio,Mess.,-,"Curation, Comp.",,Shared,?,5.1.1
+28,GenJam,Evolutionary Computation,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Hybrid,P+L,"Improv.,Melody Gen.",,Not shared,,5.1.2
+29,automated,Evolutionary Computation,Mono-agent,Single-role,Real-world,-,Audio,Audio,Env.,P,Improv.,,Shared,,5.1.2
+30,Frank,Evolutionary Computation,Mono-agent,Single-role,Real-world,Hybrid,Audio,Audio,Env.,P+L,Improv.,,Not shared,?,5.1.2
+31,RGeme,Evolutionary Computation,Multi-agent/Heterogenous,Single-role,Real-world,Symbolic,,Symbolic,,-,Rhythm Gen.,,Not shared,,5.1.2
+32,Tuning,Evolutionary Computation,Multi-agent/Heterogenous,Single-role,Real-world,-,Symbolic,Symbolic,Hybrid,-,Assisted Comp.,?,Not shared,,5.1.2
+33,Frankensteinian,Evolutionary Computation,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,-,Symbolic,Hybrid,-,"Comp., Assisted",,Not shared,,5.2.1
+34,Living Melodies,Evolutionary Computation,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,Symbolic,-,Symbolic,Hybrid,-,"Comp., Assisted",,Not shared,,5.2.1
+35,Emergent,Evolutionary Computation,Multi-agent/Heterogenous,Multi-role,Virtual ecosystem,Symbolic,Symbolic,Symbolic,Env.,-,Rhythm Gen.,,Not shared,,5.2.1
+36,IMAP,Evolutionary Computation,Multi-agent/Heterogenous,Multi-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,-,Interpretation,?,Not shared,,5.2.1
+37,RiverWave,Evolutionary Computation,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Computer,Output,Env.,-,Comp.,,Not shared,?,5.2.1
+38,Petri,Evolutionary Computation,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Vision,Audio,Env.,C,Comp.,,Not shared,?,5.2.1
+39,Swarm Music,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Symbolic,Symbolic,Env.,P,Comp.,,Not shared,?,5.2.2
+40,Swarm Granulator,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Audio,Audio,Env.,P,Comp.,,Not shared,?,5.2.2
+41,Real-time,Ecosystemic,Multi-agent/Heterogenous,,Virtual ecosystem,-,Hybrid,Hybrid,Env.,P,Improv.,,Not shared,,5.2.2
+42,Nodal,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Symbolic,Symbolic,Mess.,C,Comp.,,Shared,?,5.2.2
+43,OSCAR,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Symbolic,Symbolic,Env.,-,Comp.,,Shared,?,5.2.2
+44,CT: Shoals,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,Audio,Parameter,Parameter,Mess.,-,Comp.,,Not shared,?,5.2.2
+45,earGram Actors,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,Audio,-,Audio,Env.,C,Comp.,,Not shared,?,5.2.2
+46,pMIMACS,Ecosystemic,Multi-agent/Heterogenous,Multi-role,Virtual ecosystem,-,Symbolic,Symbolic,Env.,-,Interpretation,?,Not shared,,5.2.2
+47,SDS,Ecosystemic,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,Symbolic,Symbolic,Mess.,-,Melody Gen.,,Not shared,,5.2.2
+48,iMe,Ecosystemic,Multi-agent/Heterogenous,Multi-role,Virtual ecosystem,-,Symbolic,Symbolic,Env.,P,"Comp., Assisted Comp.",,Not shared,,5.2.2
+49,POMDP,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,-,Symbolic,Symbolic,Env.,P+L,"Improv., Style Im.",,Not shared,,6.1
+50,Continuator,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,-,Symbolic,Symbolic,Env.,P+L,"Improv., Style Im., Accomp.",,Not shared,?,6.1
+51,Beatback,Statistical Sequence Modelling,Multi-agent/Heterogenous,Single-role,Real-world,-,Symbolic,Audio,Mess.,P+C,Rhythm Gen.,?,Not shared,,6.1
+52,Ringomatic,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Hybrid,Symbolic,Audio,Env.,P,Rhythm Gen.,?,Not shared,,6.1
+53,Using FO,Statistical Sequence Modelling,Mono-agent,Single-role,,-,Symbolic,Symbolic,Env.,P+L,"Improv., Style Im.",,Not shared,?,6.1
+54,OMAX,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Hybrid,Hybrid,Hybrid,Mess.,P+L,"Improv., Style Im.",,Not shared,?,6.1
+55,Anticipatory,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P+C+L,"Improv., Style Im.",,Not shared,,6.1
+56,Improvagent,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P,Improv.,,Not shared,,6.1
+57,Improtek,Statistical Sequence Modelling,Multi-agent/Heterogenous,Multi-role,Real-world,Hybrid,Hybrid,Hybrid,Env.,P+C+L,"Improv., Style Im.",,Not shared,?,6.1
+58,AO,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Audio,Audio,Audio,Env.,P+C+L,"Improv., Style Im.",,Not shared,?,6.1
+59,PyOracle,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Audio,Audio,Audio,Env.,P,"Improv., Style Im.",?,Shared,?,6.1
+60,VMO,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Audio,Audio,Audio,Env.,P+C+L,"Improv., Style Im",,Not shared,?,6.1
+61,Filter,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Hybrid,Audio,Audio,Env.,P,Improv.,,Not shared,?,6.1
+62,SpeakeSystem,Statistical Sequence Modelling,Mono-agent,Single-role,Real-world,Symbolic,Audio,Audio,Env.,P+L,Improv.,?,Shared,?,6.1
+63,ADTK,Statistical Sequence Modelling,Multi-agent/Heterogenous,Multi-role,Real-world,-,Symbolic,Symbolic,Hybrid,C,"Style Im., Improv.",,Not shared,,6.2
+64,CinBalada,Statistical Sequence Modelling,Multi-agent/Heterogenous,Multi-role,Real-world,-,-,Symbolic,Mess.,-,Rhythm Gen.,?,Not shared,,6.2
+65,Reactive Accompanist,Artificial Neural Networks,Mono-agent,Single-role,Real-world,-,Audio,Symbolic,Env.,P,"Improv., Accomp.",,Shared,,6.3
+66,NN music,Artificial Neural Networks,Mono-agent,Single-role,Real-world,-,Audio,Audio,Env.,P+L,Improv.,,Not shared,?,6.3
+67,Live Algorithms,Artificial Neural Networks,Mono-agent,Single-role,Real-world,-,Audio,Audio,Env.,P,Improv.,,Shared,?,6.3
+68,Automated,Artificial Neural Networks,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,L,"Improv.,Melody",,Not shared,,6.3
+69,ML*,Artificial Neural Networks,Mono-agent,Single-role,Real-world,Hybrid,Audio,Audio,Env.,P+L,Improv.,,Not shared,,6.3
+70,Connectionist,Artificial Neural Networks,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,-,Rhythm Gen.,,Not shared,,6.3
+71,HARP,Cognitive,Mono-agent,Single-role,Real-world,Symbolic,Hybrid,Hybrid,Mess.,C,"Assisted Comp., Improv.",,Not shared,?,6.4
+72,Jambot,Cognitive,Mono-agent,Single-role,Real-world,-,Symbolic,Symbolic,Env.,P,"Rhythm Gen., Improv., Accomp.",,Not shared,,6.4
+73,Motivation,Cognitive,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P,Improv.,,Partially shared,?,6.4
+74,Mockingbird,Cognitive,Mono-agent,Single-role,Real-world,Hybrid,Audio,Audio,Env.,P+L,"Accomp., Improv.",,Not shared,,6.4
+75,MAgentA,Cognitive,Mono-agent,Single-role,Real-world,Symbolic,-,Symbolic,Mess.,-,Comp.,,Not shared,,6.4
+76,FO with flow,Cognitive,Mono-agent,Single-role,Real-world,Symbolic,Symbolic,Symbolic,Env.,P+L,Improv.,,Not shared,,6.4
+77,MASC,Cognitive,Multi-agent/Heterogenous,Single-role,Virtual ecosystem,-,-,Symbolic,Mess.,C,Rhythm Gen.,?,Not shared,?,6.4
+78,MASOM,Cognitive,Multi-agent/Heterogenous,Single-role,Real-world,Hybrid,Audio,Audio,Env.,P+L,"Improv., Comp.",,Partially,?,6.4
