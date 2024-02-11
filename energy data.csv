@@ -1,0 +1,90 @@
+﻿From,To,2007,2010,2015,2020,2025,2030,2035,2040,2045,2050
+Coal reserves,Coal,124 ,128 ,128 ,128 ,128 ,64 ,64 ,64 ,64 ,64 
+Coal imports,Coal,347 ,350 ,296 ,211 ,78 ,35 ,19 ,23 ,27 ,31 
+Oil reserves,Oil,976 ,803 ,647 ,502 ,388 ,300 ,232 ,180 ,139 ,108 
+Oil imports,Oil,- ,66 ,208 ,358 ,458 ,528 ,615 ,678 ,734 ,772 
+Gas reserves,Natural Gas,731 ,646 ,496 ,383 ,296 ,229 ,177 ,137 ,106 ,82 
+Gas imports,Natural Gas,247 ,356 ,584 ,820 ,"1,093 ","1,346 ","1,551 ","1,724 ","1,893 ","2,034 "
+UK land based bioenergy,Bio-conversion,5 ,3 ,5 ,6 ,8 ,10 ,12 ,14 ,16 ,18 
+Marine algae,Bio-conversion,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Agricultural 'waste',Bio-conversion,3 ,9 ,15 ,31 ,32 ,33 ,34 ,35 ,36 ,37 
+Other waste,Bio-conversion,35 ,29 ,28 ,28 ,30 ,33 ,34 ,36 ,38 ,40 
+Other waste,Solid,7 ,7 ,8 ,8 ,10 ,11 ,12 ,13 ,13 ,14 
+Biomass imports,Solid,4 ,4 ,4 ,3 ,3 ,2 ,2 ,1 ,1 ,- 
+Biofuel imports,Liquid,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Coal,Solid,471 ,478 ,424 ,339 ,206 ,99 ,83 ,87 ,91 ,95 
+Oil,Liquid,976 ,868 ,855 ,860 ,846 ,828 ,847 ,858 ,873 ,880 
+Natural Gas,Gas,978 ,"1,001 ","1,080 ","1,203 ","1,389 ","1,575 ","1,728 ","1,861 ","1,999 ","2,117 "
+Solar,Solar PV,0 ,0 ,0 ,- ,- ,- ,- ,- ,- ,- 
+Solar PV,Electricity grid,0 ,0 ,0 ,- ,- ,- ,- ,- ,- ,- 
+Solar,Solar Thermal,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Bio-conversion,Solid,14 ,16 ,17 ,18 ,21 ,24 ,25 ,27 ,29 ,30 
+Bio-conversion,Liquid,2 ,1 ,2 ,2 ,4 ,4 ,5 ,6 ,7 ,8 
+Bio-conversion,Gas,22 ,18 ,21 ,31 ,35 ,35 ,36 ,37 ,38 ,40 
+Bio-conversion,Losses,6 ,6 ,9 ,14 ,11 ,12 ,13 ,15 ,16 ,18 
+Solid,Over generation / exports,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Liquid,Over generation / exports,75 ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Gas,Over generation / exports,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Solid,Thermal generation,427 ,434 ,381 ,295 ,161 ,53 ,34 ,34 ,33 ,33 
+Liquid,Thermal generation,9 ,9 ,- ,- ,- ,- ,- ,- ,- ,- 
+Gas,Thermal generation,351 ,343 ,392 ,492 ,641 ,784 ,901 ,994 ,"1,086 ","1,153 "
+Nuclear,Thermal generation,164 ,161 ,135 ,77 ,26 ,26 ,- ,- ,- ,- 
+Thermal generation,District heating,9 ,9 ,9 ,10 ,11 ,12 ,13 ,14 ,15 ,16 
+Thermal generation,Electricity grid,371 ,366 ,362 ,364 ,376 ,410 ,453 ,498 ,543 ,576 
+Thermal generation,Losses,571 ,571 ,537 ,489 ,441 ,441 ,469 ,516 ,561 ,593 
+Solid,CHP,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Liquid,CHP,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Gas,CHP,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+CHP,Electricity grid,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+CHP,Losses,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Electricity imports,Electricity grid,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Wind,Electricity grid,6 ,14 ,29 ,45 ,58 ,48 ,32 ,15 ,0 ,0 
+Tidal,Electricity grid,- ,0 ,0 ,0 ,0 ,0 ,- ,- ,- ,- 
+Wave,Electricity grid,- ,- ,0 ,0 ,0 ,0 ,- ,- ,- ,- 
+Geothermal,Electricity grid,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Hydro,Electricity grid,4 ,5 ,5 ,5 ,5 ,5 ,5 ,5 ,5 ,5 
+Electricity grid,H2 conversion,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Electricity grid,Over generation / exports,- ,0 ,- ,- ,- ,- ,- ,- ,- ,- 
+Electricity grid,Losses,27 ,27 ,28 ,29 ,31 ,32 ,34 ,36 ,38 ,41 
+Gas,H2 conversion,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H2 conversion,H2,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H2 conversion,Losses,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Solar Thermal,Heating and cooling - homes,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H2,Road transport,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Pumped heat,Heating and cooling - homes,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Pumped heat,Heating and cooling - commercial,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+CHP,Heating and cooling - homes,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+CHP,Heating and cooling - commercial,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+District heating,Heating and cooling - homes,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+District heating,Heating and cooling - commercial,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+District heating,Industry,9 ,9 ,9 ,10 ,11 ,12 ,13 ,14 ,15 ,16 
+Electricity grid,Heating and cooling - homes,31 ,29 ,24 ,28 ,33 ,38 ,43 ,48 ,54 ,61 
+Solid,Heating and cooling - homes,14 ,13 ,11 ,10 ,9 ,8 ,6 ,4 ,2 ,- 
+Liquid,Heating and cooling - homes,13 ,12 ,10 ,9 ,8 ,7 ,5 ,4 ,2 ,- 
+Gas,Heating and cooling - homes,324 ,355 ,383 ,408 ,433 ,457 ,470 ,484 ,500 ,518 
+Electricity grid,Heating and cooling - commercial,29 ,31 ,35 ,37 ,38 ,38 ,37 ,36 ,34 ,31 
+Solid,Heating and cooling - commercial,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Liquid,Heating and cooling - commercial,9 ,9 ,9 ,8 ,7 ,6 ,5 ,4 ,2 ,- 
+Gas,Heating and cooling - commercial,78 ,81 ,85 ,91 ,98 ,105 ,113 ,122 ,131 ,141 
+Electricity grid,Lighting & appliances - homes,87 ,87 ,89 ,91 ,93 ,95 ,97 ,99 ,101 ,103 
+Gas,Lighting & appliances - homes,8 ,8 ,8 ,8 ,8 ,8 ,8 ,8 ,8 ,8 
+Electricity grid,Lighting & appliances - commercial,73 ,73 ,75 ,77 ,80 ,82 ,84 ,87 ,90 ,92 
+Gas,Lighting & appliances - commercial,9 ,9 ,9 ,9 ,9 ,9 ,9 ,9 ,9 ,9 
+Electricity grid,Industry,123 ,126 ,133 ,140 ,151 ,163 ,176 ,192 ,209 ,228 
+Solid,Industry,55 ,56 ,60 ,63 ,69 ,75 ,81 ,89 ,97 ,106 
+Liquid,Industry,138 ,137 ,140 ,142 ,148 ,156 ,165 ,175 ,186 ,199 
+Gas,Industry,217 ,210 ,209 ,209 ,217 ,227 ,241 ,258 ,278 ,301 
+Electricity grid,Agriculture,4 ,4 ,4 ,4 ,4 ,4 ,4 ,4 ,4 ,4 
+Solid,Agriculture,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 
+Liquid,Agriculture,3 ,4 ,4 ,4 ,4 ,4 ,4 ,4 ,4 ,4 
+Gas,Agriculture,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 
+Electricity grid,Road transport,- ,- ,0 ,1 ,3 ,5 ,7 ,10 ,12 ,14 
+Liquid,Road transport,491 ,470 ,445 ,424 ,390 ,351 ,344 ,334 ,328 ,322 
+Electricity grid,Rail transport,9 ,8 ,8 ,8 ,8 ,8 ,7 ,7 ,7 ,7 
+Liquid,Rail transport,7 ,10 ,9 ,9 ,9 ,9 ,8 ,8 ,8 ,7 
+Liquid,Domestic aviation,9 ,10 ,10 ,11 ,12 ,13 ,13 ,14 ,14 ,15 
+Liquid,National navigation,19 ,27 ,25 ,25 ,24 ,24 ,23 ,23 ,23 ,22 
+Liquid,International aviation,153 ,125 ,142 ,161 ,171 ,179 ,191 ,195 ,196 ,189 
+Liquid,International shipping,54 ,57 ,63 ,69 ,77 ,85 ,95 ,105 ,117 ,130 
+Electricity grid,Geosequestration,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+Gas,Losses,11 ,11 ,12 ,14 ,16 ,18 ,20 ,21 ,23 ,24 
